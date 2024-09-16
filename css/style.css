@@ -96,6 +96,9 @@ footer {
     p {
         font-size: 20px;
         text-align: right;
-        padding: 15px 15px 15px 0px;
+        padding-top: 15px;
+        padding-bottom: 0px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
